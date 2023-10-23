@@ -1,7 +1,7 @@
 .arena {
     display: grid;
     grid-template-columns: 2fr 1fr 2fr;
-    grid-column-gap: 1em;
+    grid-column-gap: 5em;
 }
 
 /* Team */
@@ -21,7 +21,7 @@
     margin: 10px;
     padding: 1rem;
     text-align: center;
-    width: 100px;
+    width: 150px;
 }
 
 .player>img {
