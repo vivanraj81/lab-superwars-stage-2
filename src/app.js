@@ -96,7 +96,3 @@ const getRandomStrength = () => {
   };
   console.log(PLAYERS);
 
-
-
- // Create players using for loop
-    // Type your code here
